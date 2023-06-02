@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "315786623768",
+    "firebase_url": "https://esp32-kr-swelys-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "esp32-kr-swelys",
+    "storage_bucket": "esp32-kr-swelys.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315786623768:android:ee58bef4f272f7dffffc6d",
+        "android_client_info": {
+          "package_name": "com.example.pdoject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkvQElkerHB2J0cb4uu-e4zpWD_9l_fRY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
